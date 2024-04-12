@@ -2,7 +2,6 @@
 
 ## We help people in government build better digital services
 
-https://digital.gov
 
 - Sign-up for the [Digital.gov newsletter »](https://digital.gov/about/subscribe/)
 - Follow us on [Twitter »](https://twitter.com/digital_gov/)
